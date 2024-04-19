@@ -26,7 +26,7 @@ Additionally program the first, 2nd, 3rd layer weights. Once programmed activate
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
 
 ## Memory
-| Address |     | Data Indices |     | Data               |       |
+| Address |  Address   | Data Index |  Data Index   | Data Description            | Data Description       |
 |---------|-----|--------------|-----|--------------------|-------|
 | dec     | hex | MSB          | LSB | Description        | LYR # |
 | 0       | 0   | 7            | 0   | Feedback scale     | 1     |
