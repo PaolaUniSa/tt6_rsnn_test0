@@ -27,7 +27,6 @@ List external hardware used in your project (e.g. PMOD, LED display, etc), if an
 
 ## Memory
 | | | | | | | |
-|-|-|-|-|-|-|-|
 | |Address| |Data Indices| |Data| |
 | |dec|hex|MSB|LSB|Description|LYR #|
 | |0|0|7|0|Feedback scale|1|
