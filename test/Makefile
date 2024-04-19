@@ -15,6 +15,7 @@ PROJECT_SOURCES += RSNN_TopModule.v
 PROJECT_SOURCES += SpikingNeuronLayer.v
 PROJECT_SOURCES += ThreeLayerNeuralNetwork.v
 
+
 ifneq ($(GATES),yes)
 
 # RTL simulation:
