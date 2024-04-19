@@ -17,11 +17,14 @@ project:
   source_files:        
     - "tt_um_chatgpt_rsnn_paolaunisa.v"
     - "LeakyIntegrateFireNeuron.v"
+    - "LeakyIntegrateFireNeuron_test.v"
     - "MemoryCU.v"
     - "RecurrentSpikingNeuron.v"
+    - "RecurrentSpikingNeuron_test.v"
     - "register.v"
     - "RSNN_TopModule.v"
     - "SpikingNeuronLayer.v"
+    - "SpikingNeuronLayer_test.v"
     - "ThreeLayerNeuralNetwork.v"
     - "FIPO_Memory.v"
     
